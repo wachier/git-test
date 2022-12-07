@@ -12,5 +12,6 @@ public class gitTest {
         System.out.println("brouhaha");
         System.out.println("master test!");
         System.out.println("hot-fix commit");
+        System.out.println("push test!");
     }
 }
