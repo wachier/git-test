@@ -10,5 +10,6 @@ public class gitTest {
         System.out.println("hello waCheer");
         System.out.println("hello kaKaXi");
         System.out.println("brouhaha");
+        System.out.println("hot-fix commit");
     }
 }
